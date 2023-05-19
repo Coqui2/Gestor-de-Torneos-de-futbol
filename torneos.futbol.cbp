@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="torneos.futbol" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/torneos" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/torneos" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Eliminatoria.h" />
+		<Unit filename="include/FuncionesUtiles.h" />
+		<Unit filename="include/Menu.h" />
+		<Unit filename="include/Menues.h" />
+		<Unit filename="include/Resultado.h" />
+		<Unit filename="include/equipo.h" />
+		<Unit filename="include/jugador.h" />
+		<Unit filename="include/partido.h" />
+		<Unit filename="include/torneo.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Eliminatoria.cpp" />
+		<Unit filename="src/FuncionesUtiles.cpp" />
+		<Unit filename="src/Menu.cpp" />
+		<Unit filename="src/Menues.cpp" />
+		<Unit filename="src/Resultado.cpp" />
+		<Unit filename="src/equipo.cpp" />
+		<Unit filename="src/jugador.cpp" />
+		<Unit filename="src/partido.cpp" />
+		<Unit filename="src/torneo.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

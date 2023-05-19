@@ -1,0 +1,1013 @@
+# depslib dependency file v1.0
+1666371305 source:c:\users\jonat\desktop\utn\materias de la carrera\laboratorio de computación 2\trabajo final torneos de futbol\torneos.futbol\main.cpp
+	<iostream>
+	"equipo.h"
+	"partido.h"
+	"jugador.h"
+	"torneo.h"
+	<string>
+
+1666367581 source:c:\users\jonat\desktop\utn\materias de la carrera\laboratorio de computación 2\trabajo final torneos de futbol\torneos.futbol\src\torneo.cpp
+	<iostream>
+	"torneo.h"
+
+1666368657 c:\users\jonat\desktop\utn\materias de la carrera\laboratorio de computación 2\trabajo final torneos de futbol\torneos.futbol\include\torneo.h
+	<iostream>
+	<string>
+
+1666355794 source:c:\users\jonat\desktop\utn\materias de la carrera\laboratorio de computación 2\trabajo final torneos de futbol\torneos.futbol\src\equipo.cpp
+	<iostream>
+	"equipo.h"
+
+1666368657 c:\users\jonat\desktop\utn\materias de la carrera\laboratorio de computación 2\trabajo final torneos de futbol\torneos.futbol\include\equipo.h
+	<iostream>
+	<string>
+
+1666368012 source:c:\users\jonat\desktop\utn\materias de la carrera\laboratorio de computación 2\trabajo final torneos de futbol\torneos.futbol\src\jugador.cpp
+	<iostream>
+	"jugador.h"
+
+1666368657 c:\users\jonat\desktop\utn\materias de la carrera\laboratorio de computación 2\trabajo final torneos de futbol\torneos.futbol\include\jugador.h
+	<iostream>
+
+1666371415 source:c:\users\jonat\desktop\utn\materias de la carrera\laboratorio de computación 2\trabajo final torneos de futbol\torneos.futbol\src\partido.cpp
+	<iostream>
+	"partido.h"
+	"equipo.h"
+
+1666371119 c:\users\jonat\desktop\utn\materias de la carrera\laboratorio de computación 2\trabajo final torneos de futbol\torneos.futbol\include\partido.h
+	"equipo.h"
+	<iostream>
+
+1666474472 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\torneos.futbol\torneos.futbol\main.cpp
+	<iostream>
+	"equipo.h"
+	"partido.h"
+	"jugador.h"
+	"torneo.h"
+	"FuncionesAdicionales.h"
+	<string>
+
+1666491185 c:\users\franc\documents\facultad utn\programación 2 y labo 2\torneos.futbol\torneos.futbol\include\equipo.h
+	<iostream>
+	<string>
+
+1666371119 c:\users\franc\documents\facultad utn\programación 2 y labo 2\torneos.futbol\torneos.futbol\include\partido.h
+	"equipo.h"
+	<iostream>
+
+1666483199 c:\users\franc\documents\facultad utn\programación 2 y labo 2\torneos.futbol\torneos.futbol\include\jugador.h
+	<iostream>
+
+1666475082 c:\users\franc\documents\facultad utn\programación 2 y labo 2\torneos.futbol\torneos.futbol\include\torneo.h
+	<iostream>
+	<string>
+	<cstring>
+
+1666549707 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\torneos.futbol\torneos.futbol\src\equipo.cpp
+	<iostream>
+	<cstring>
+	"Equipo.h"
+
+1666549707 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\torneos.futbol\torneos.futbol\src\jugador.cpp
+	<iostream>
+	<cstring>
+	"Jugador.h"
+
+1666371415 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\torneos.futbol\torneos.futbol\src\partido.cpp
+	<iostream>
+	"partido.h"
+	"equipo.h"
+
+1666475069 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\torneos.futbol\torneos.futbol\src\torneo.cpp
+	<iostream>
+	"torneo.h"
+
+1666475069 c:\users\franc\documents\facultad utn\programación 2 y labo 2\torneos.futbol\torneos.futbol\include\funcionesadicionales.h
+	<ctime>
+	<algorithm>
+
+1667941482 source:c:\users\jonat\downloads\torneo ultima version\main.cpp
+	<iostream>
+	"Equipo.h"
+	"Partido.h"
+	"Jugador.h"
+	"Torneo.h"
+	"Resultado.h"
+	<string>
+
+1667253116 c:\users\jonat\downloads\torneo ultima version\include\equipo.h
+	<iostream>
+	<string>
+
+1667943612 c:\users\jonat\downloads\torneo ultima version\include\partido.h
+	"Equipo.h"
+	<iostream>
+	"Resultado.h"
+
+1668010368 c:\users\jonat\downloads\torneo ultima version\include\jugador.h
+	<iostream>
+
+1667935094 c:\users\jonat\downloads\torneo ultima version\include\torneo.h
+	<iostream>
+	<string>
+	<cstring>
+	"equipo.h"
+	"Eliminatoria.h"
+
+1667941482 c:\users\jonat\downloads\torneo ultima version\include\funcionesadicionales.h
+	<ctime>
+	<algorithm>
+	"partido.h"
+	"equipo.h"
+
+1667253116 source:c:\users\jonat\downloads\torneo ultima version\src\equipo.cpp
+	<iostream>
+	<cstring>
+	"Equipo.h"
+
+1668010175 source:c:\users\jonat\downloads\torneo ultima version\src\jugador.cpp
+	<iostream>
+	<cstring>
+	"Jugador.h"
+
+1667943612 source:c:\users\jonat\downloads\torneo ultima version\src\partido.cpp
+	<iostream>
+	"Partido.h"
+	"Equipo.h"
+	"Resultado.h"
+
+1667942756 source:c:\users\jonat\downloads\torneo ultima version\src\torneo.cpp
+	<iostream>
+	"Torneo.h"
+	"Eliminatoria.h"
+	"FuncionesAdicionales.h"
+	"equipo.h"
+
+1666584481 source:c:\users\dieeg\downloads\torneo ultima version\main.cpp
+	<iostream>
+	"Equipo.h"
+	"Partido.h"
+	"Jugador.h"
+	"Torneo.h"
+	<string>
+
+1666577543 c:\users\dieeg\downloads\torneo ultima version\include\equipo.h
+	<iostream>
+	<string>
+
+1666578932 c:\users\dieeg\downloads\torneo ultima version\include\partido.h
+	"Equipo.h"
+	<iostream>
+
+1666483200 c:\users\dieeg\downloads\torneo ultima version\include\jugador.h
+	<iostream>
+
+1666475206 c:\users\dieeg\downloads\torneo ultima version\include\torneo.h
+	<iostream>
+	<string>
+	<cstring>
+
+1666577783 source:c:\users\dieeg\downloads\torneo ultima version\src\equipo.cpp
+	<iostream>
+	<cstring>
+	"Equipo.h"
+
+1666549708 source:c:\users\dieeg\downloads\torneo ultima version\src\jugador.cpp
+	<iostream>
+	<cstring>
+	"Jugador.h"
+
+1666584138 source:c:\users\dieeg\downloads\torneo ultima version\src\partido.cpp
+	<iostream>
+	"Partido.h"
+	"Equipo.h"
+
+1666573524 source:c:\users\dieeg\downloads\torneo ultima version\src\torneo.cpp
+	<iostream>
+	"Torneo.h"
+	"FuncionesAdicionales.h"
+
+1666573524 c:\users\dieeg\downloads\torneo ultima version\include\funcionesadicionales.h
+	<ctime>
+	<algorithm>
+	"partido.h"
+	"equipo.h"
+
+1666997356 source:c:\users\jonat\downloads\torneo ultima version\torneo ultima version\main.cpp
+	<iostream>
+	"Equipo.h"
+	"Partido.h"
+	"Jugador.h"
+	"Torneo.h"
+	"Resultado.h"
+	<string>
+
+1666577543 c:\users\jonat\downloads\torneo ultima version\torneo ultima version\include\equipo.h
+	<iostream>
+	<string>
+
+1666996974 c:\users\jonat\downloads\torneo ultima version\torneo ultima version\include\partido.h
+	"Equipo.h"
+	<iostream>
+	"Resultado.h"
+
+1666758399 c:\users\jonat\downloads\torneo ultima version\torneo ultima version\include\jugador.h
+	<iostream>
+
+1666475206 c:\users\jonat\downloads\torneo ultima version\torneo ultima version\include\torneo.h
+	<iostream>
+	<string>
+	<cstring>
+
+1666577783 source:c:\users\jonat\downloads\torneo ultima version\torneo ultima version\src\equipo.cpp
+	<iostream>
+	<cstring>
+	"Equipo.h"
+
+1666573524 source:c:\users\jonat\downloads\torneo ultima version\torneo ultima version\src\torneo.cpp
+	<iostream>
+	"Torneo.h"
+	"FuncionesAdicionales.h"
+
+1666573524 c:\users\jonat\downloads\torneo ultima version\torneo ultima version\include\funcionesadicionales.h
+	<ctime>
+	<algorithm>
+	"partido.h"
+	"equipo.h"
+
+1666712351 source:c:\users\jonat\downloads\torneo ultima version\torneo ultima version\src\jugador.cpp
+	<iostream>
+	<cstring>
+	"Jugador.h"
+
+1666997007 source:c:\users\jonat\downloads\torneo ultima version\torneo ultima version\src\partido.cpp
+	<iostream>
+	"Partido.h"
+	"Equipo.h"
+	"Resultado.h"
+
+1666996936 c:\users\jonat\downloads\torneo ultima version\torneo ultima version\include\resultado.h
+
+1666996936 source:c:\users\jonat\downloads\torneo ultima version\torneo ultima version\src\resultado.cpp
+	<iostream>
+	<cstdlib>
+	"Resultado.h"
+	"partido.h"
+
+1666997356 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\proyectos\torneo ultima version 31-10\torneo ultima version\main.cpp
+	<iostream>
+	"Equipo.h"
+	"Partido.h"
+	"Jugador.h"
+	"Torneo.h"
+	"Resultado.h"
+	<string>
+
+1667253115 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\proyectos\torneo ultima version 31-10\torneo ultima version\include\equipo.h
+	<iostream>
+	<string>
+
+1667253115 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\proyectos\torneo ultima version 31-10\torneo ultima version\include\partido.h
+	"Equipo.h"
+	<iostream>
+	"Resultado.h"
+
+1667253115 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\proyectos\torneo ultima version 31-10\torneo ultima version\include\resultado.h
+
+1667262410 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\proyectos\torneo ultima version 31-10\torneo ultima version\include\jugador.h
+	<iostream>
+
+1667935093 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\proyectos\torneo ultima version 31-10\torneo ultima version\include\torneo.h
+	<iostream>
+	<string>
+	<cstring>
+	"equipo.h"
+	"Eliminatoria.h"
+
+1667348102 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\proyectos\torneo ultima version 31-10\torneo ultima version\src\jugador.cpp
+	<iostream>
+	<cstring>
+	"Jugador.h"
+
+1666997407 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\proyectos\torneo ultima version 31-10\torneo ultima version\src\resultado.cpp
+	<iostream>
+	<cstdlib>
+	"Resultado.h"
+	"partido.h"
+
+1667253115 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\proyectos\torneo ultima version 31-10\torneo ultima version\src\equipo.cpp
+	<iostream>
+	<cstring>
+	"Equipo.h"
+
+1667935776 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\proyectos\torneo ultima version 31-10\torneo ultima version\src\eliminatoria.cpp
+	"Eliminatoria.h"
+	"partido.h"
+	"torneo.h"
+
+1667941007 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\proyectos\torneo ultima version 31-10\torneo ultima version\include\eliminatoria.h
+
+1667348102 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\proyectos\torneo ultima version 31-10\torneo ultima version\src\partido.cpp
+	<iostream>
+	"Partido.h"
+	"Equipo.h"
+	"Resultado.h"
+
+1667935497 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\proyectos\torneo ultima version 31-10\torneo ultima version\src\torneo.cpp
+	<iostream>
+	"Torneo.h"
+	"Eliminatoria.h"
+	"FuncionesAdicionales.h"
+	"equipo.h"
+
+1667935497 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\proyectos\torneo ultima version 31-10\torneo ultima version\include\funcionesadicionales.h
+	<ctime>
+	<algorithm>
+	"partido.h"
+	"equipo.h"
+
+1668395377 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\src\eliminatoria.cpp
+	"Eliminatoria.h"
+	"partido.h"
+	"torneo.h"
+	"FuncionesUtiles.h"
+
+1668395377 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\include\eliminatoria.h
+
+1668394818 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\include\partido.h
+	<iostream>
+	"Equipo.h"
+	"Resultado.h"
+
+1668378375 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\include\equipo.h
+	<iostream>
+	<string>
+
+1668394795 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\include\resultado.h
+
+1668443819 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\include\torneo.h
+	<iostream>
+	<string>
+	<cstring>
+	"equipo.h"
+	"Eliminatoria.h"
+
+1668389025 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\src\equipo.cpp
+	<iostream>
+	<cstring>
+	"equipo.h"
+	"FuncionesUtiles.h"
+
+1668442833 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\src\jugador.cpp
+	<iostream>
+	<cstring>
+	"Jugador.h"
+	"FuncionesUtiles.h"
+
+1668291710 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\include\jugador.h
+	<iostream>
+
+1668394795 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\src\resultado.cpp
+	<iostream>
+	<cstdlib>
+	"Resultado.h"
+	"partido.h"
+	"jugador.h"
+
+1668008747 c:\users\jonat\downloads\torneo ultima version\include\resultado.h
+
+1667941008 c:\users\jonat\downloads\torneo ultima version\include\eliminatoria.h
+
+1667941020 source:c:\users\jonat\downloads\torneo ultima version\src\eliminatoria.cpp
+	"Eliminatoria.h"
+	"partido.h"
+	"torneo.h"
+
+1668009548 source:c:\users\jonat\downloads\torneo ultima version\src\resultado.cpp
+	<iostream>
+	<cstdlib>
+	"Resultado.h"
+	"partido.h"
+
+1668647333 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\main.cpp
+	<iostream>
+	"Equipo.h"
+	"Partido.h"
+	"Jugador.h"
+	"Torneo.h"
+	"Resultado.h"
+	"FuncionesUtiles.h"
+	"Menues.h"
+	<string>
+
+1668619068 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\include\equipo.h
+	<iostream>
+	<string>
+
+1668394820 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\include\partido.h
+	<iostream>
+	"Equipo.h"
+	"Resultado.h"
+
+1668394796 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\include\resultado.h
+
+1668607241 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\include\jugador.h
+	<iostream>
+
+1668443820 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\include\torneo.h
+	<iostream>
+	<string>
+	<cstring>
+	"equipo.h"
+	"Eliminatoria.h"
+
+1668395378 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\include\eliminatoria.h
+
+1668395378 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\src\eliminatoria.cpp
+	"Eliminatoria.h"
+	"partido.h"
+	"torneo.h"
+	"FuncionesUtiles.h"
+
+1668621272 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\src\equipo.cpp
+	<iostream>
+	<cstring>
+	"equipo.h"
+	"rlutil.h"
+	"FuncionesUtiles.h"
+
+1668621434 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\src\jugador.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Jugador.h"
+	"FuncionesUtiles.h"
+
+1668645854 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\src\partido.cpp
+	<iostream>
+	"Partido.h"
+	"Equipo.h"
+	"Resultado.h"
+	"FuncionesUtiles.h"
+
+1668451808 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\src\torneo.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"FuncionesUtiles.h"
+	"Eliminatoria.h"
+	"torneo.h"
+	"Menues.h"
+
+1667941482 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\include\funcionesadicionales.h
+	<ctime>
+	<algorithm>
+	"partido.h"
+	"equipo.h"
+
+1668019527 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\src\menu3.cpp
+	"Menu3.h"
+
+1666205214 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\include\menu3.h
+	"locale.h"
+	<iostream>
+	<string>
+	"rlutil.h"
+
+1666187072 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668394796 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\src\resultado.cpp
+	<iostream>
+	<cstdlib>
+	"Resultado.h"
+	"partido.h"
+	"jugador.h"
+
+1668658044 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\src\menues.cpp
+	"Menues.h"
+	"FuncionesUtiles.h"
+	"torneo.h"
+	<string>
+
+1668619068 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\include\menues.h
+	"Menu.h"
+
+1668456230 source:c:\users\jonat\downloads\gestor de torneos\main.cpp
+	<iostream>
+	"Equipo.h"
+	"Partido.h"
+	"Jugador.h"
+	"Torneo.h"
+	"Resultado.h"
+	"FuncionesUtiles.h"
+	"Menues.h"
+	<string>
+
+1668378376 c:\users\jonat\downloads\gestor de torneos\include\equipo.h
+	<iostream>
+	<string>
+
+1668394820 c:\users\jonat\downloads\gestor de torneos\include\partido.h
+	<iostream>
+	"Equipo.h"
+	"Resultado.h"
+
+1668394796 c:\users\jonat\downloads\gestor de torneos\include\resultado.h
+
+1668291712 c:\users\jonat\downloads\gestor de torneos\include\jugador.h
+	<iostream>
+
+1668443820 c:\users\jonat\downloads\gestor de torneos\include\torneo.h
+	<iostream>
+	<string>
+	<cstring>
+	"equipo.h"
+	"Eliminatoria.h"
+
+1668395378 c:\users\jonat\downloads\gestor de torneos\include\eliminatoria.h
+
+1668395378 source:c:\users\jonat\downloads\gestor de torneos\src\eliminatoria.cpp
+	"Eliminatoria.h"
+	"partido.h"
+	"torneo.h"
+	"FuncionesUtiles.h"
+
+1668389026 source:c:\users\jonat\downloads\gestor de torneos\src\equipo.cpp
+	<iostream>
+	<cstring>
+	"equipo.h"
+	"FuncionesUtiles.h"
+
+1668442834 source:c:\users\jonat\downloads\gestor de torneos\src\jugador.cpp
+	<iostream>
+	<cstring>
+	"Jugador.h"
+	"FuncionesUtiles.h"
+
+1668019527 source:c:\users\jonat\downloads\gestor de torneos\src\menu3.cpp
+	"Menu3.h"
+
+1666205214 c:\users\jonat\downloads\gestor de torneos\include\menu3.h
+	"locale.h"
+	<iostream>
+	<string>
+	"rlutil.h"
+
+1666187072 c:\users\jonat\downloads\gestor de torneos\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668453196 source:c:\users\jonat\downloads\gestor de torneos\src\partido.cpp
+	<iostream>
+	"Partido.h"
+	"Equipo.h"
+	"Resultado.h"
+	"FuncionesUtiles.h"
+
+1668394796 source:c:\users\jonat\downloads\gestor de torneos\src\resultado.cpp
+	<iostream>
+	<cstdlib>
+	"Resultado.h"
+	"partido.h"
+	"jugador.h"
+
+1668451808 source:c:\users\jonat\downloads\gestor de torneos\src\torneo.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"FuncionesUtiles.h"
+	"Eliminatoria.h"
+	"torneo.h"
+	"Menues.h"
+
+1667941482 c:\users\jonat\downloads\gestor de torneos\include\funcionesadicionales.h
+	<ctime>
+	<algorithm>
+	"partido.h"
+	"equipo.h"
+
+1668550116 source:c:\users\jonat\downloads\gestor de torneos\src\menues.cpp
+	"Menues.h"
+	"FuncionesUtiles.h"
+	"torneo.h"
+	<string>
+
+1668458628 c:\users\jonat\downloads\gestor de torneos\include\menues.h
+	"Menu.h"
+
+1668118532 source:c:\users\dieeg\downloads\gestor de torneos\main.cpp
+	<iostream>
+	"Equipo.h"
+	"Partido.h"
+	"Jugador.h"
+	"Torneo.h"
+	"Resultado.h"
+	"FuncionesUtiles.h"
+	"Menues.h"
+	<string>
+
+1668024103 c:\users\dieeg\downloads\gestor de torneos\include\equipo.h
+	<iostream>
+	<string>
+
+1668028724 c:\users\dieeg\downloads\gestor de torneos\include\partido.h
+	<iostream>
+	"Equipo.h"
+	"Resultado.h"
+
+1668008748 c:\users\dieeg\downloads\gestor de torneos\include\resultado.h
+
+1668010370 c:\users\dieeg\downloads\gestor de torneos\include\jugador.h
+	<iostream>
+
+1668029604 c:\users\dieeg\downloads\gestor de torneos\include\torneo.h
+	<iostream>
+	<string>
+	<cstring>
+	"equipo.h"
+	"Eliminatoria.h"
+
+1667941008 c:\users\dieeg\downloads\gestor de torneos\include\eliminatoria.h
+
+1668120006 c:\users\dieeg\downloads\gestor de torneos\include\menues.h
+	"Menu3.h"
+
+1666205214 c:\users\dieeg\downloads\gestor de torneos\include\menu3.h
+	"locale.h"
+	<iostream>
+	<string>
+	"rlutil.h"
+
+1666187072 c:\users\dieeg\downloads\gestor de torneos\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668099485 source:c:\users\dieeg\downloads\gestor de torneos\src\eliminatoria.cpp
+	"Eliminatoria.h"
+	"partido.h"
+	"torneo.h"
+	"FuncionesUtiles.h"
+
+1668024652 source:c:\users\dieeg\downloads\gestor de torneos\src\jugador.cpp
+	<iostream>
+	<cstring>
+	"Jugador.h"
+
+1668019527 source:c:\users\dieeg\downloads\gestor de torneos\src\menu3.cpp
+	"Menu3.h"
+
+1668119990 source:c:\users\dieeg\downloads\gestor de torneos\src\menues.cpp
+	"Menues.h"
+
+1668024652 source:c:\users\dieeg\downloads\gestor de torneos\src\partido.cpp
+	<iostream>
+	"Partido.h"
+	"Equipo.h"
+	"Resultado.h"
+
+1668024652 source:c:\users\dieeg\downloads\gestor de torneos\src\resultado.cpp
+	<iostream>
+	<cstdlib>
+	"Resultado.h"
+	"partido.h"
+	"jugador.h"
+
+1668099441 source:c:\users\dieeg\downloads\gestor de torneos\src\torneo.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"FuncionesUtiles.h"
+	"Eliminatoria.h"
+	"torneo.h"
+
+1668025184 c:\users\dieeg\downloads\gestor de torneos\include\funcionesadicionales.h
+	<ctime>
+	<algorithm>
+	"partido.h"
+	"equipo.h"
+
+1668025184 source:c:\users\dieeg\downloads\gestor de torneos\src\equipo.cpp
+	<iostream>
+	<cstring>
+	"Equipo.h"
+
+1668029683 source:c:\users\dieeg\downloads\gestor de torneos\src\funcionesutiles.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	"FuncionesUtiles.h"
+
+1668028695 c:\users\dieeg\downloads\gestor de torneos\include\funcionesutiles.h
+	<iostream>
+	<ctime>
+	<algorithm>
+	"partido.h"
+	"equipo.h"
+
+1668611915 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\include\funcionesutiles.h
+	<iostream>
+	<ctime>
+	<algorithm>
+	"partido.h"
+	"equipo.h"
+	"jugador.h"
+
+1668658044 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\src\funcionesutiles.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	"FuncionesUtiles.h"
+	"torneo.h"
+	"jugador.h"
+	"rlutil.h"
+	"Menues.h"
+	"equipo.h"
+
+1668456228 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\main.cpp
+	<iostream>
+	"Equipo.h"
+	"Partido.h"
+	"Jugador.h"
+	"Torneo.h"
+	"Resultado.h"
+	"FuncionesUtiles.h"
+	"Menues.h"
+	<string>
+
+1668443819 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\include\funcionesutiles.h
+	<iostream>
+	<ctime>
+	<algorithm>
+	"partido.h"
+	"equipo.h"
+	"jugador.h"
+
+1668458626 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\include\menues.h
+	"Menu.h"
+
+1666205214 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\include\menu3.h
+	"locale.h"
+	<iostream>
+	<string>
+	"rlutil.h"
+
+1666187072 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668286669 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\src\menu3.cpp
+	"Menu3.h"
+
+1668457149 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\src\menues.cpp
+	"Menues.h"
+	"FuncionesUtiles.h"
+	"torneo.h"
+	<string>
+
+1668453194 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\src\partido.cpp
+	<iostream>
+	"Partido.h"
+	"Equipo.h"
+	"Resultado.h"
+	"FuncionesUtiles.h"
+
+1668451806 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\src\torneo.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"FuncionesUtiles.h"
+	"Eliminatoria.h"
+	"torneo.h"
+	"Menues.h"
+
+1668457615 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\src\funcionesutiles.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	"FuncionesUtiles.h"
+	"torneo.h"
+	"jugador.h"
+	"rlutil.h"
+	"Menues.h"
+
+1668315086 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\include\menu.h
+	"locale.h"
+	<iostream>
+	<string>
+	"rlutil.h"
+
+1668439369 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\src\menu.cpp
+	"Menu.h"
+
+1668443820 c:\users\jonat\downloads\gestor de torneos\include\funcionesutiles.h
+	<iostream>
+	<ctime>
+	<algorithm>
+	"partido.h"
+	"equipo.h"
+	"jugador.h"
+
+1668550494 c:\users\jonat\downloads\gestor de torneos\include\menu.h
+	"locale.h"
+	<iostream>
+	<string>
+	"rlutil.h"
+
+1668548350 source:c:\users\jonat\downloads\gestor de torneos\src\funcionesutiles.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	"FuncionesUtiles.h"
+	"torneo.h"
+	"jugador.h"
+	"rlutil.h"
+	"Menues.h"
+
+1668551112 source:c:\users\jonat\downloads\gestor de torneos\src\menu.cpp
+	"Menu.h"
+
+1668647334 source:c:\users\jonat\downloads\gestor de torneos entrega\main.cpp
+	<iostream>
+	"Equipo.h"
+	"Partido.h"
+	"Jugador.h"
+	"Torneo.h"
+	"Resultado.h"
+	"FuncionesUtiles.h"
+	"Menues.h"
+	<string>
+
+1668702708 c:\users\jonat\downloads\gestor de torneos entrega\include\equipo.h
+	<iostream>
+	<string>
+
+1668394820 c:\users\jonat\downloads\gestor de torneos entrega\include\partido.h
+	<iostream>
+	"Equipo.h"
+	"Resultado.h"
+
+1668394796 c:\users\jonat\downloads\gestor de torneos entrega\include\resultado.h
+
+1668697953 c:\users\jonat\downloads\gestor de torneos entrega\include\jugador.h
+	<iostream>
+
+1668443820 c:\users\jonat\downloads\gestor de torneos entrega\include\torneo.h
+	<iostream>
+	<string>
+	<cstring>
+	"equipo.h"
+	"Eliminatoria.h"
+
+1668395378 c:\users\jonat\downloads\gestor de torneos entrega\include\eliminatoria.h
+
+1668611916 c:\users\jonat\downloads\gestor de torneos entrega\include\funcionesutiles.h
+	<iostream>
+	<ctime>
+	<algorithm>
+	"partido.h"
+	"equipo.h"
+	"jugador.h"
+
+1668702709 c:\users\jonat\downloads\gestor de torneos entrega\include\menues.h
+	"Menu.h"
+
+1668658736 c:\users\jonat\downloads\gestor de torneos entrega\include\menu.h
+	"locale.h"
+	<iostream>
+	<string>
+	"rlutil.h"
+
+1666187072 c:\users\jonat\downloads\gestor de torneos entrega\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668395378 source:c:\users\jonat\downloads\gestor de torneos entrega\src\eliminatoria.cpp
+	"Eliminatoria.h"
+	"partido.h"
+	"torneo.h"
+	"FuncionesUtiles.h"
+
+1668720051 source:c:\users\jonat\downloads\gestor de torneos entrega\src\equipo.cpp
+	<iostream>
+	<cstring>
+	"equipo.h"
+	"rlutil.h"
+	"FuncionesUtiles.h"
+
+1668658046 source:c:\users\jonat\downloads\gestor de torneos entrega\src\funcionesutiles.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	"FuncionesUtiles.h"
+	"torneo.h"
+	"jugador.h"
+	"rlutil.h"
+	"Menues.h"
+	"equipo.h"
+
+1668720051 source:c:\users\jonat\downloads\gestor de torneos entrega\src\jugador.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Jugador.h"
+	"FuncionesUtiles.h"
+
+1668658716 source:c:\users\jonat\downloads\gestor de torneos entrega\src\menu.cpp
+	"Menu.h"
+
+1668720051 source:c:\users\jonat\downloads\gestor de torneos entrega\src\menues.cpp
+	"Menues.h"
+	"FuncionesUtiles.h"
+	"torneo.h"
+	<string>
+
+1668645856 source:c:\users\jonat\downloads\gestor de torneos entrega\src\partido.cpp
+	<iostream>
+	"Partido.h"
+	"Equipo.h"
+	"Resultado.h"
+	"FuncionesUtiles.h"
+
+1668394796 source:c:\users\jonat\downloads\gestor de torneos entrega\src\resultado.cpp
+	<iostream>
+	<cstdlib>
+	"Resultado.h"
+	"partido.h"
+	"jugador.h"
+
+1668451808 source:c:\users\jonat\downloads\gestor de torneos entrega\src\torneo.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"FuncionesUtiles.h"
+	"Eliminatoria.h"
+	"torneo.h"
+	"Menues.h"
+
+1668658734 c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\include\menu.h
+	"locale.h"
+	<iostream>
+	<string>
+	"rlutil.h"
+
+1668658715 source:c:\users\franc\documents\facultad utn\programación 2 y labo 2\gestor de torneos\version compañeros\src\menu.cpp
+	"Menu.h"
+
